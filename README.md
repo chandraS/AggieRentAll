@@ -1,5 +1,5 @@
 # How to run the app
-````javascript
+```javascript
  npm install --save node.js
  npm install --save express.js
  npm install --save body-parser
